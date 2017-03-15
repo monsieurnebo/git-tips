@@ -6,10 +6,10 @@ Please ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Use the following format:
 ```md
-# Titre
-## Le problème
+## Titre
+### Le problème
 Foo...
-## La solution
+### La solution
 Bar...
 ```
 - Keep titles short and simple, but descriptive.
